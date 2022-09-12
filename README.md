@@ -4,7 +4,7 @@ A basic Flexbox-layout made as an exercise on 5th week of studying at [ITGirlSch
 
 
 <br>
-<img width="45%" alt="HomePage" src="../main/captureweb.jpeg">
+<img width="45%" alt="screen capture" src="../main/captureweb.jpeg">
 
 ## Demo
 [Flexbox-Exercise]

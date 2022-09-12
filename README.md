@@ -1,6 +1,6 @@
 # Flexbox-Exercise
 
-A basic Flexbox layout made as an exercise on the 5th week of study at [ITGirlSchool].
+A basic Flexbox-layout made as an exercise on the 5th week of study at [ITGirlSchool].
 
 
 <br>
@@ -20,4 +20,4 @@ A basic Flexbox layout made as an exercise on the 5th week of study at [ITGirlSc
   
 
    [ITGirlSchool]: <https://itgirlschool.com/en>
-   [Flexbox-Exercise]: <https://alenagm.github.io/flexbox-exercise/>
+   [Flexbox-Exercise]: <https://alenagm.github.io/Flexbox-Exercise/>

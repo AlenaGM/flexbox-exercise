@@ -16,7 +16,7 @@ A basic Flexbox-layout made as an exercise on 5th week of studying at [ITGirlSch
 &nbsp;&nbsp;&nbsp;&nbsp;&check;&nbsp;&nbsp; Flexbox<br>
 
 <br><br> 
-\* _Weeks 5 Exercise for [ITGirlSchool]_ 
+\* _Week 5 Exercise for [ITGirlSchool]_ 
   
 
    [ITGirlSchool]: <https://itgirlschool.com/en>

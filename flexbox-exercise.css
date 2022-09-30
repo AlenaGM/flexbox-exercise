@@ -1,84 +1,83 @@
 body {
-    display: flex;
-    flex-flow: column;
-    min-height: 100vh;
+  display: flex;
+  flex-flow: column;
+  min-height: 100vh;
 }
 
 header,
 footer {
-    flex-grow: 0;
-    flex-shrink: 0;
-    width: 100vw;
-    min-height: 15vh;
-    background-color: #f1e6ba;
+  flex-grow: 0;
+  flex-shrink: 0;
+  width: 100vw;
+  min-height: 15vh;
+  background-color: #f1e6ba;
 }
 
 .main-part {
-    flex: 1;
-    display: flex;
-    flex-direction: row;
-    justify-content: stretch;
-    width: 100vw;
+  flex: 1;
+  display: flex;
+  flex-direction: row;
+  justify-content: stretch;
+  width: 100vw;
 }
 
 .section-container {
-    flex: 1;
-    display: flex;
-    flex-direction: column;
-    flex-wrap: nowrap;
-    justify-content: flex-end;
-    align-content: stretch;
-    width: 80vw;
-    background-color: #cbd2dd;
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  flex-wrap: nowrap;
+  justify-content: flex-end;
+  align-content: stretch;
+  width: 80vw;
+  background-color: #cbd2dd;
 }
 
 .main-text {
-    width: 80vw;
-    height: 30vh;
+  width: 80vw;
+  height: 30vh;
 }
 
 .sections {
-    display: flex;
-    flex-direction: row;
+  display: flex;
+  flex-direction: row;
 }
 
 .section-1-2 {
-    flex: 1;
-    width: 36vw;
-    height: 14vh;
-    margin-left: 2vw;
-    margin-right: 2vw;
-    background-color: #99b2b6;
+  flex: 1;
+  width: 36vw;
+  height: 14vh;
+  margin-left: 2vw;
+  margin-right: 2vw;
+  background-color: #99b2b6;
 }
 
 .section-3 {
-    flex: 1;
-    width: 76vw;
-    margin: 2vw;
-    background-color: #99b2b6;
+  flex: 1;
+  width: 76vw;
+  margin: 2vw;
+  background-color: #99b2b6;
 }
 
 aside {
-    width: 20vw;
-    background-color: #c7b3c3;
+  width: 20vw;
+  background-color: #c7b3c3;
 }
 
 footer {
-    display: flex;
-    flex-direction: row;
-    justify-content: space-around;
-
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
 }
 
 div.footer-section {
-    flex: 1;
-    margin: 1vw;
-    background-color: #c9c39b;
+  flex: 1;
+  margin: 1vw;
+  background-color: #c9c39b;
 }
 
 p {
-    font-family: 'Nunito Sans', sans-serif;
-    font-weight: 400;
-    font-size: 24px;
-    text-align: center;
+  font-family: "Nunito Sans", sans-serif;
+  font-weight: 400;
+  font-size: 1.5rem;
+  text-align: center;
 }

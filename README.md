@@ -1,6 +1,6 @@
 # Flexbox-Exercise
 
-A basic Flexbox-layout made as an exercise on 5th week of studying at [ITGirlSchool].
+A basic flexbox-layout made as an exercise on 5th week of studying at [ITGirlSchool].
 
 
 <br>

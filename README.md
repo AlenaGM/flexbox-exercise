@@ -1,10 +1,10 @@
 # Flexbox-Exercise
 
-A basic flexbox-layout made as an exercise on 5th week of studying at [ITGirlSchool].
+A basic flexbox-layout created as an exercise on 5th week of studying at [ITGirlSchool].
 
 
 <br>
-<img width="45%" alt="screen capture" src="../main/captureweb.jpeg">
+<img width="45%" alt="screen capture" src="../main/captureweb.jpg">
 
 ## Demo
 [Flexbox-Exercise]

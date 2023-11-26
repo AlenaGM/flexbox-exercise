@@ -20,4 +20,4 @@ A basic flexbox-layout created as an exercise on 5th week of studying at [ITGirl
   
 
    [ITGirlSchool]: <https://itgirlschool.com/en>
-   [Flexbox-Exercise]: <https://alenagm.github.io/Flexbox-Exercise/>
+   [Flexbox-Exercise]: <https://alenagm.github.io/flexbox-exercise/>

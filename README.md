@@ -3,11 +3,11 @@
 A basic flexbox layout made as an exercise in the 5th week of studying at [ITGirlSchool].
 
 <br>
-<img width="45%" alt="screen capture" src="../main/captureweb.jpg">
+<img width="45%" alt="screen capture" src="../main/captureweb.jpeg">
 
 ## Demo
 
-[Flexbox-Exercise]
+[Flexbox Exercise]
 
 ## Tech stack
 
@@ -18,4 +18,4 @@ A basic flexbox layout made as an exercise in the 5th week of studying at [ITGir
 <br><br> \* _Week 5 Exercise for [ITGirlSchool]_
 
 [ITGirlSchool]: https://itgirlschool.com/en
-[Flexbox-Exercise]: https://alenagm.github.io/flexbox-exercise/
+[Flexbox Exercise]: https://alenagm.github.io/flexbox-exercise/

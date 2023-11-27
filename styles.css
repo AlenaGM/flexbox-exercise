@@ -1,0 +1,87 @@
+body {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+  width: 100vw;
+  min-width: 350px;
+  font-family: "Nunito Sans", sans-serif;
+  font-weight: 400;
+  font-size: 1rem;
+  text-align: center;
+}
+
+header,
+footer {
+  min-height: 15%;
+  background-color: #f1e6ba;
+  padding: 16px;
+}
+
+.main {
+  display: flex;
+  flex: 1;
+  flex-direction: row;
+  justify-content: stretch;
+}
+
+.main-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: stretch;
+  width: 70%;
+  background-color: #cbd2dd;
+  padding: 16px;
+}
+
+aside {
+  background-color: #c7b3c3;
+  padding: 16px;
+  width: 30%;
+}
+
+.sections {
+  display: flex;
+  flex-direction: column;
+  min-height: 50%;
+}
+
+.sections-top {
+  display: flex;
+  gap: 16px;
+  margin-bottom: 16px;
+  flex: 1;
+}
+
+.section {
+  flex: 1;
+  background-color: #99b2b6;
+}
+
+.footer {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  flex-wrap: wrap;
+  gap: 16px;
+}
+
+.footer-section {
+  flex: 1;
+  background-color: #c9c39b;
+}
+
+h1,
+h2,
+h3,
+p {
+  font-family: "Nunito Sans", sans-serif;
+  font-weight: 400;
+  font-size: 1rem;
+  text-align: center;
+}
+
+h1,
+h2 {
+  font-size: 1.5rem;
+}

@@ -1,12 +1,12 @@
-# Flexbox-Exercise
+# Flexbox Exercise
 
-A basic flexbox-layout made as an exercise on 5th week of studying at [ITGirlSchool].
-
+A basic flexbox layout made as an exercise in the 5th week of studying at [ITGirlSchool].
 
 <br>
 <img width="45%" alt="screen capture" src="../main/captureweb.jpeg">
 
 ## Demo
+
 [Flexbox-Exercise]
 
 ## Tech stack
@@ -15,9 +15,7 @@ A basic flexbox-layout made as an exercise on 5th week of studying at [ITGirlSch
 &nbsp;&nbsp;&nbsp;&nbsp;&check;&nbsp;&nbsp; CSS3<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&check;&nbsp;&nbsp; Flexbox<br>
 
-<br><br> 
-\* _Week 5 Exercise for [ITGirlSchool]_ 
-  
+<br><br> \* _Week 5 Exercise for [ITGirlSchool]_
 
-   [ITGirlSchool]: <https://itgirlschool.com/en>
-   [Flexbox-Exercise]: <https://alenagm.github.io/Flexbox-Exercise/>
+[ITGirlSchool]: https://itgirlschool.com/en
+[Flexbox-Exercise]: https://alenagm.github.io/Flexbox-Exercise/

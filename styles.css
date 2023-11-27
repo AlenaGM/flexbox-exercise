@@ -17,7 +17,7 @@ footer {
   padding: 16px;
 }
 
-.main {
+main {
   display: flex;
   flex: 1;
   flex-direction: row;
@@ -58,7 +58,7 @@ aside {
   background-color: #99b2b6;
 }
 
-.footer {
+footer {
   display: flex;
   flex-direction: row;
   justify-content: space-around;
